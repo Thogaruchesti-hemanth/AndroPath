@@ -620,10 +620,6 @@ Made with ❤️ and ☕
 **⭐ Star this repo if you find it helpful!**
 
 </div>
-3. Add **badges** for build status, Firebase, stars, and forks
-4. Keep the **roadmap up-to-date** with new Android features
-5. Make sections **clickable** with anchors for easy navigation
-
 ---
 
 *Happy Coding! 💻✨*
